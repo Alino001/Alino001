@@ -32,4 +32,4 @@ I am a instressting guy that is interested in Tech
  
   --> It's a Sony Vaio SVE1512C6E
 
-• <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" /></a>
+• Uses <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" /></a> to program/code
