@@ -23,3 +23,9 @@ More Infomation about the Projects down below :).
  • Introverted a little
 
  • Sometimes crazy
+
+
+## Some Info about me
+
+
+ ----Programs that i use
