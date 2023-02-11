@@ -31,4 +31,5 @@ More Infomation about the Projects down below :).
 • I use <img align="center" src="https://github.com/Alino001/Alino001/blob/main/archlinux.svg" height="30" /></a>
 
 • I have a <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Vaio.svg" height="30" /></a> Laptop
-  -->
+ 
+  --> It's a Sony Vaio SVE1512C6E
