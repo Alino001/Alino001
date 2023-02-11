@@ -20,3 +20,6 @@ More Infomation about the Projects down below :).
 
  • Hates Apple much 
  
+ • Introverted a little
+
+ • Sometimes crazy
