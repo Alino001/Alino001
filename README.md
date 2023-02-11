@@ -28,4 +28,4 @@ More Infomation about the Projects down below :).
 ## Pictures that say someting about me
 
 <p align="left">
-<img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" height="30" /></a>
