@@ -28,4 +28,4 @@ More Infomation about the Projects down below :).
 ## Pictures that say someting about me
 
 <p align="left">
-<img align="center" src="https://github.com/Alino001/Alino001/blob/main/archlinux.svg" height="30" /></a>
+I use <img align="center" src="https://github.com/Alino001/Alino001/blob/main/archlinux.svg" height="30" /></a>
