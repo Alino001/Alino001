@@ -11,8 +11,12 @@ More Infomation about the Projects down below :).
 ## Personality
 
  • Knows alot about Windows
+
  • Is currently learning Linux
+
  • Can write Bat/Powershell scripts
+ 
  • Finds gaming boring, likes programming more
+
  • Hates Apple much 
  
