@@ -33,3 +33,8 @@ I am a instressting guy that is interested in Tech
   --> It's a Sony Vaio SVE1512C6E
 
 • Uses <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" /></a> to program/code
+
+
+## Stats and other stuff
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alino001)](https://github.com/anuraghazra/github-readme-stats)
