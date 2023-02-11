@@ -33,3 +33,5 @@ More Infomation about the Projects down below :).
 • I have a <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Vaio.svg" height="30" /></a> Laptop
  
   --> It's a Sony Vaio SVE1512C6E
+
+• <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" /></a>
