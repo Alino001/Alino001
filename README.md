@@ -25,7 +25,6 @@ More Infomation about the Projects down below :).
  • Sometimes crazy
 
 
-## Some Info about me
+## Pictures that say someting about me
 
 
- ----Programs that i use
