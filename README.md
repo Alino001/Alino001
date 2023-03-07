@@ -41,21 +41,4 @@ I am a instressting guy that is interested in Tech
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alino001&theme=windows-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alino001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----------
-
-### Hi there 👋, it’s me, Alino 
-#### A nice guy who is a tech enthusiast 
-![A nice guy who is a tech enthusiast ](https://camo.githubusercontent.com/6d9188ca1c1851a860916aa4f1c09ba1c4ce558f917487da9c0d1b88f1b156b0/68747470733a2f2f692e696d6775722e636f6d2f566a73436536512e706e67)
-
-I’m Alino, a nice guy. I make projects that make people happy like the project ``Project01``. I’m very happy if you support me :)
-
-
-Skills: Batch and a little bit Powershell
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alino001&layout=compact)](https://github.com/anuraghazra/github-readme-
